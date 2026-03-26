@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my start-up company called Hemba.
+- 🔭 I’m currently working on my start-up company called hemba.
 - 🌱 I’m currently learning bachelor of computer application
 - 📫 How to reach me: contact me via my email or website or social.
 
